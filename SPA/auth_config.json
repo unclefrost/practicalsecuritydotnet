@@ -1,0 +1,10 @@
+{
+  "domain": "",
+  "clientId": "",
+  "audience": "",
+  "apiUri": "",
+  "aspnetApiUri":"",
+  "appUri": "http://localhost:4200",
+  "errorPath": "/error"
+}
+
